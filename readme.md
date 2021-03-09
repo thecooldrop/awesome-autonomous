@@ -3,13 +3,17 @@
 > A curated list of repositories, resources and methodologies which lead to advancement of autonomous technologies
 
 
-## Contents
+## Topics overview
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Target Tracking](#Tracking)
+- [Simultanoues Localization and Mapping](#Simultaneous-localization-and-mapping)
+- [Robotics Platforms](#Robotics-platforms)
 
+## Contribute
 
-## Section
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Tracking
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -17,14 +21,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 
 
-## Another Section
+## Simultaneous localization and mapping
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Robotics platforms
 
 
-## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
